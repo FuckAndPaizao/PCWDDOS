@@ -1,1 +1,48 @@
-# PCWDDOS V1.0 Esta ferramenta é usada para fazer ataques DDOS no servidor a partir de qualquer dispositivo ! [DDOSPCW] () # Como funciona? Ele envia um pacote contínuo para o servidor de destino e interrompe o serviço do servidor. Este ataque é conhecido como ataque DDos ## O que é DDos Attack? <p> Em um ataque distribuído de negação de serviço (ataque DDoS), o tráfego de entrada que inunda a vítima se origina de muitas fontes diferentes. Isso efetivamente torna impossível parar o ataque simplesmente bloqueando uma única fonte. </p> ### Dispositivos suportados: Este programa é compatível com todos os sistemas operacionais como Linux, Windows e O código é escrito em python3, então não se preocupe, ele funciona bem sem Bug #### Em breve: Ataque DDos com Botnet Botnet: Um botnet é um número de dispositivos conectados à Internet, cada um executando um ou mais bots. Os botnets podem ser usados ​​para realizar ataques distribuídos de negação de serviço, roubar dados, enviar spam e permitir que o invasor acesse o dispositivo e sua conexão. ## Instalando (linux / termux / Mac os): `` ` apt-get update -y apt-get install git git clone https://github.com/FuckAndPaizao/PCWDDOS.git cd PCWDDOS python PCWDDOS.py `` ` ## Instalação de uma linha: `` ` apt-get update -y && apt-get install git && git clone https://github.com/FuckAndPaizao/PCWDDOS.git && cd SniperMan && python3 PCWDDOS.py `` ` ## Instalando (Windows): `` ` Baixe o arquivo .exe do link abaixo e execute-o `` ` [Arquivo exe de download rápido] () ## NOSSO canal no Youtube: [FuckTR3M] (https://youtube.com/channel/UCCXSfIsQVm1w1udGNW5hX5A) (inscreva-se para vídeos de hacking)
+# PCWDDOS V1.0
+
+This Tool is used to make DDos attack on server from any Devices
+![DDOSPCW]()
+
+# How it Works? 
+ It sends continous packet to the target server and stop the service of server .
+This attack is known as DDos attack
+
+## What is DDos Attack?
+  <p>In a distributed denial-of-service attack (DDoS attack), the incoming traffic flooding the victim originates from many different sources. This effectively makes it impossible to stop the attack simply by blocking a single source.</p>
+
+### Supported Devices:
+ This program is supported in all operating system like linux,windows and 
+The Code is written in python3 so Dont worry it works well without Bug
+
+#### Coming Soon:
+DDos attack with Botnet 
+
+Botnet:
+A botnet is a number of Internet-connected devices, each of which is running one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allows the attacker to access the device and its connection.
+
+## Installing (linux/termux/Mac os):
+```
+apt-get update -y
+apt-get install git
+git clone https://github.com/FuckAndPaizao/PCWDDOS.git
+cd PCWDDOS
+python PCWDDOS.py
+
+```
+## One line Installation:
+```
+apt-get update -y && apt-get install git && git clone https://github.com/FuckAndPaizao/PCWDDOS.git && cd SniperMan && python3 PCWDDOS.py
+
+```
+## Installing (Windows):
+```
+Download .exe file from the bellow link and run it
+
+```
+[ Quick download exe file]()
+
+## OUR Youtube channel:
+
+[Tech Core](https://youtube.com/channel/UCCXSfIsQVm1w1udGNW5hX5A)
+
+(subscribe for hacking stuff videos )
