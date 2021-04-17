@@ -1,7 +1,7 @@
-# SniperMan V1.1
+# PCWDDOS V1.0
 
 This Tool is used to make DDos attack on server from any Devices
-![SniperMan](https://i.ibb.co/3h8dbfg/dwa.png)
+![DDOSPCW]()
 
 # How it Works? 
  It sends continous packet to the target server and stop the service of server .
@@ -24,26 +24,25 @@ A botnet is a number of Internet-connected devices, each of which is running one
 ```
 apt-get update -y
 apt-get install git
-git clone https://github.com/BOT-CODER/SniperMan.git
-cd SniperMan
-python3 SniperMan.py
+git clone https://github.com/FuckAndPaizao/PCWDDOS.git
+cd PCWDDOS
+python PCWDDOS.py
 
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && python3 SniperMan.py
+apt-get update -y && apt-get install git && git clone https://github.com/FuckAndPaizao/PCWDDOS.git && cd SniperMan && python3 PCWDDOS.py
 
 ```
 ## Installing (Windows):
 ```
 Download .exe file from the bellow link and run it
 
-https://github.com/BOT-CODER/SniperMan/tree/windows
 ```
-[ Quick download exe file](https://github.com/BOT-CODER/SniperMan/raw/windows/SniperMan.exe)
+[ Quick download exe file]()
 
 ## OUR Youtube channel:
 
-[Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+[Tech Core](https://youtube.com/channel/UCCXSfIsQVm1w1udGNW5hX5A)
 
 (subscribe for hacking stuff videos )
